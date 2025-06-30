@@ -1,32 +1,32 @@
 [
   {
     "text": "Anthony Gentile",
-    "confidence": 0.998816728591919,
+    "confidence": 0.9160165190696716,
     "box": [
       [
-        126.0,
+        131.0,
         159.0
       ],
       [
-        1012.0,
-        154.0
+        1008.0,
+        159.0
       ],
       [
-        1013.0,
-        246.0
+        1008.0,
+        242.0
       ],
       [
-        126.0,
-        251.0
+        131.0,
+        242.0
       ]
     ]
   },
   {
     "text": "Video editor with a Master's Degree in film editing and dual Bachelor's degrees in film and video production and digital media",
-    "confidence": 0.9881867170333862,
+    "confidence": 0.9479728937149048,
     "box": [
       [
-        121.0,
+        123.0,
         285.0
       ],
       [
@@ -38,47 +38,47 @@
         310.0
       ],
       [
-        121.0,
+        123.0,
         310.0
       ]
     ]
   },
   {
     "text": "production. Skilled at managing the entire editing process, from selecting footage to creating a coherent story, with experience at",
-    "confidence": 0.9915733933448792,
+    "confidence": 0.9344996213912964,
     "box": [
       [
-        121.0,
+        123.0,
         315.0
       ],
       [
-        1501.0,
+        1498.0,
         315.0
       ],
       [
-        1501.0,
+        1498.0,
         339.0
       ],
       [
-        121.0,
+        123.0,
         339.0
       ]
     ]
   },
   {
     "text": "industry leaders like Warner Bros. Entertainment and DreamWorks Animation. Proficient in Adobe Premiere Pro, with strong",
-    "confidence": 0.9887670874595642,
+    "confidence": 0.9310693144798279,
     "box": [
       [
         121.0,
         344.0
       ],
       [
-        1449.0,
+        1447.0,
         344.0
       ],
       [
-        1449.0,
+        1447.0,
         368.0
       ],
       [
@@ -88,55 +88,55 @@
     ]
   },
   {
-    "text": " storytelling abilities, knowledge of motion graphics and special effects, and certifications from Adobe, Avid Technology, and Apple",
-    "confidence": 0.9871402978897095,
+    "text": "storytelling abilities, knowledge of motion graphics and special effects, and certifications from Adobe, Avid Technology, and Apple",
+    "confidence": 0.938125491142273,
     "box": [
       [
-        113.0,
-        368.0
-      ],
-      [
-        1506.0,
+        118.0,
         371.0
       ],
       [
-        1506.0,
+        1503.0,
+        371.0
+      ],
+      [
+        1503.0,
         403.0
       ],
       [
-        113.0,
-        400.0
+        118.0,
+        403.0
       ]
     ]
   },
   {
     "text": "Inc.",
-    "confidence": 0.9996092319488525,
+    "confidence": 0.9936780333518982,
     "box": [
       [
-        119.0,
-        397.0
-      ],
-      [
-        164.0,
-        404.0
+        121.0,
+        405.0
       ],
       [
         160.0,
-        430.0
+        405.0
       ],
       [
-        114.0,
-        423.0
+        160.0,
+        424.0
+      ],
+      [
+        121.0,
+        424.0
       ]
     ]
   },
   {
     "text": "PROFESSIONAL EXPERIENCE",
-    "confidence": 0.990878164768219,
+    "confidence": 0.9809876084327698,
     "box": [
       [
-        690.0,
+        692.0,
         598.0
       ],
       [
@@ -148,25 +148,25 @@
         632.0
       ],
       [
-        690.0,
+        692.0,
         632.0
       ]
     ]
   },
   {
     "text": "CONTACT",
-    "confidence": 0.9846185445785522,
+    "confidence": 0.9135581851005554,
     "box": [
       [
         52.0,
         610.0
       ],
       [
-        246.0,
+        244.0,
         610.0
       ],
       [
-        246.0,
+        244.0,
         644.0
       ],
       [
@@ -177,76 +177,76 @@
   },
   {
     "text": "Senior Video Editor I Warner Bros. Entertainment I Burbank, CA",
-    "confidence": 0.9837655425071716,
+    "confidence": 0.9601304531097412,
     "box": [
       [
-        619.0,
-        693.0
+        621.0,
+        690.0
       ],
       [
         1380.0,
-        693.0
+        690.0
       ],
       [
         1380.0,
-        725.0
+        722.0
       ],
       [
-        619.0,
-        725.0
+        621.0,
+        722.0
       ]
     ]
   },
   {
     "text": "January 2018 - Present",
-    "confidence": 0.9736680388450623,
+    "confidence": 0.9511054754257202,
     "box": [
       [
-        616.0,
+        619.0,
         725.0
       ],
       [
-        909.0,
+        907.0,
         725.0
       ],
       [
-        909.0,
+        907.0,
         756.0
       ],
       [
-        616.0,
+        619.0,
         756.0
       ]
     ]
   },
   {
     "text": "(123) 456-7890",
-    "confidence": 0.9994153380393982,
+    "confidence": 0.9733296036720276,
     "box": [
       [
-        150.0,
-        749.0
+        148.0,
+        744.0
       ],
       [
-        325.0,
-        749.0
+        330.0,
+        744.0
       ],
       [
-        325.0,
-        776.0
+        330.0,
+        778.0
       ],
       [
-        150.0,
-        776.0
+        148.0,
+        778.0
       ]
     ]
   },
   {
-    "text": "Lead editor for multiple high-profile projects, consistently delivering final",
-    "confidence": 0.9990487098693848,
+    "text": ". Lead editor for multiple high-profile projects, consistently delivering final",
+    "confidence": 0.9283484816551208,
     "box": [
       [
-        697.0,
+        663.0,
         790.0
       ],
       [
@@ -258,39 +258,39 @@
         822.0
       ],
       [
-        697.0,
+        663.0,
         822.0
       ]
     ]
   },
   {
     "text": "products ahead of schedule without compromising on quality",
-    "confidence": 0.9908037781715393,
+    "confidence": 0.9449082612991333,
     "box": [
       [
-        702.0,
+        700.0,
         822.0
       ],
       [
         1442.0,
-        825.0
+        822.0
       ],
       [
         1442.0,
-        851.0
+        854.0
       ],
       [
-        702.0,
-        849.0
+        700.0,
+        854.0
       ]
     ]
   },
   {
     "text": "email@example.com",
-    "confidence": 0.9992724061012268,
+    "confidence": 0.903052568435669,
     "box": [
       [
-        150.0,
+        148.0,
         834.0
       ],
       [
@@ -302,102 +302,102 @@
         866.0
       ],
       [
-        150.0,
+        148.0,
         866.0
       ]
     ]
   },
   {
-    "text": " Implemented a new organizational system for the video archive, improving",
-    "confidence": 0.9897728562355042,
+    "text": ": Implemented a new organizational system for the video archive, improving",
+    "confidence": 0.9298862814903259,
     "box": [
       [
-        695.0,
-        864.0
+        658.0,
+        861.0
       ],
       [
         1599.0,
-        869.0
+        866.0
       ],
       [
         1599.0,
         900.0
       ],
       [
-        695.0,
+        658.0,
         895.0
       ]
     ]
   },
   {
     "text": "retrieval efficiency by 30%",
-    "confidence": 0.9912827610969543,
+    "confidence": 0.9873948693275452,
     "box": [
       [
-        705.0,
-        905.0
+        700.0,
+        900.0
       ],
       [
-        1023.0,
-        905.0
+        1025.0,
+        900.0
       ],
       [
-        1023.0,
-        929.0
+        1025.0,
+        932.0
       ],
       [
-        705.0,
-        929.0
+        700.0,
+        932.0
       ]
     ]
   },
   {
-    "text": "LinkedIn",
-    "confidence": 0.9510043263435364,
+    "text": " Linkedin",
+    "confidence": 0.9264258146286011,
     "box": [
       [
-        147.0,
-        919.0
+        138.0,
+        922.0
       ],
       [
-        254.0,
-        925.0
+        251.0,
+        922.0
       ],
       [
-        253.0,
-        959.0
+        251.0,
+        956.0
       ],
       [
-        145.0,
-        953.0
+        138.0,
+        956.0
       ]
     ]
   },
   {
-    "text": "Worked closely with directors and producers, translating their vision into the",
-    "confidence": 0.9915185570716858,
+    "text": "· Worked closely with directors and producers, translating their vision into the",
+    "confidence": 0.9270704388618469,
     "box": [
       [
-        695.0,
+        658.0,
         942.0
       ],
       [
         1619.0,
-        947.0
+        944.0
       ],
       [
         1619.0,
-        981.0
+        978.0
       ],
       [
-        695.0,
+        658.0,
         976.0
       ]
     ]
   },
   {
     "text": "final product for over 20 films",
-    "confidence": 0.9881994724273682,
+    "confidence": 0.9332011938095093,
     "box": [
       [
         700.0,
@@ -419,7 +419,7 @@
   },
   {
     "text": "Minneapolis, MN 12345",
-    "confidence": 0.9999154210090637,
+    "confidence": 0.9545161724090576,
     "box": [
       [
         148.0,
@@ -441,10 +441,10 @@
   },
   {
     "text": "Video Editor I DreamWorks Animation I Glendale, CA",
-    "confidence": 0.9807998538017273,
+    "confidence": 0.9474092125892639,
     "box": [
       [
-        621.0,
+        619.0,
         1059.0
       ],
       [
@@ -456,25 +456,25 @@
         1090.0
       ],
       [
-        621.0,
+        619.0,
         1090.0
       ]
     ]
   },
   {
     "text": "May 2017 - December 2017",
-    "confidence": 0.9801948070526123,
+    "confidence": 0.9513821601867676,
     "box": [
       [
         619.0,
         1095.0
       ],
       [
-        959.0,
+        961.0,
         1095.0
       ],
       [
-        959.0,
+        961.0,
         1120.0
       ],
       [
@@ -485,10 +485,10 @@
   },
   {
     "text": "EDUCATION",
-    "confidence": 0.9987103939056396,
+    "confidence": 0.9483242034912109,
     "box": [
       [
-        49.0,
+        52.0,
         1151.0
       ],
       [
@@ -500,17 +500,17 @@
         1186.0
       ],
       [
-        49.0,
+        52.0,
         1186.0
       ]
     ]
   },
   {
     "text": "Managed the entire editing process for three animated feature films, all of",
-    "confidence": 0.983410120010376,
+    "confidence": 0.9493540525436401,
     "box": [
       [
-        697.0,
+        678.0,
         1156.0
       ],
       [
@@ -522,201 +522,201 @@
         1188.0
       ],
       [
-        697.0,
+        678.0,
         1188.0
       ]
     ]
   },
   {
     "text": "which received positive reviews for seamless storytelling",
-    "confidence": 0.9915956854820251,
+    "confidence": 0.9627663493156433,
     "box": [
       [
-        705.0,
-        1193.0
+        702.0,
+        1188.0
       ],
       [
-        1385.0,
-        1193.0
+        1387.0,
+        1188.0
       ],
       [
-        1385.0,
-        1217.0
+        1387.0,
+        1220.0
       ],
       [
-        705.0,
-        1217.0
+        702.0,
+        1220.0
       ]
     ]
   },
   {
-    "text": "Trained new team members on Adobe Premiere Pro and other video editing",
-    "confidence": 0.9961171746253967,
+    "text": " Trained new team members on Adobe Premiere Pro and other video editing",
+    "confidence": 0.9048769474029541,
     "box": [
       [
-        700.0,
+        688.0,
         1234.0
       ],
       [
-        1612.0,
+        1609.0,
         1234.0
       ],
       [
-        1612.0,
+        1609.0,
         1266.0
       ],
       [
-        700.0,
+        688.0,
         1266.0
+      ]
+    ]
+  },
+  {
+    "text": "April 2017 I Master's Degree in",
+    "confidence": 0.9195269346237183,
+    "box": [
+      [
+        74.0,
+        1276.0
+      ],
+      [
+        451.0,
+        1278.0
+      ],
+      [
+        451.0,
+        1313.0
+      ],
+      [
+        74.0,
+        1310.0
       ]
     ]
   },
   {
     "text": "software",
-    "confidence": 0.990326464176178,
+    "confidence": 0.9492067694664001,
     "box": [
       [
         705.0,
         1269.0
       ],
       [
-        808.0,
+        806.0,
         1269.0
       ],
       [
-        808.0,
+        806.0,
         1293.0
       ],
       [
         705.0,
         1293.0
-      ]
-    ]
-  },
-  {
-    "text": "April 2017 | Master's Degree in",
-    "confidence": 0.9872210025787354,
-    "box": [
-      [
-        76.0,
-        1281.0
-      ],
-      [
-        451.0,
-        1281.0
-      ],
-      [
-        451.0,
-        1312.0
-      ],
-      [
-        76.0,
-        1312.0
       ]
     ]
   },
   {
     "text": "Film Editing",
-    "confidence": 0.99925297498703,
+    "confidence": 0.9699480533599854,
     "box": [
       [
         73.0,
-        1304.0
+        1305.0
       ],
       [
-        223.0,
-        1316.0
+        222.0,
+        1313.0
       ],
       [
         220.0,
-        1352.0
+        1347.0
       ],
       [
         71.0,
-        1341.0
+        1339.0
       ]
     ]
   },
   {
     "text": "Helped create motion graphics and special effects, contributing to each",
-    "confidence": 0.9939522743225098,
+    "confidence": 0.9334071278572083,
     "box": [
       [
-        697.0,
+        695.0,
         1308.0
       ],
       [
-        1570.0,
-        1308.0
+        1572.0,
+        1310.0
       ],
       [
-        1570.0,
-        1339.0
+        1572.0,
+        1342.0
       ],
       [
-        697.0,
+        695.0,
         1339.0
       ]
     ]
   },
   {
     "text": "film's unique visual style",
-    "confidence": 0.9727963805198669,
+    "confidence": 0.8896303176879883,
     "box": [
       [
         700.0,
         1344.0
       ],
       [
-        996.0,
-        1349.0
+        998.0,
+        1344.0
       ],
       [
-        995.0,
-        1374.0
+        998.0,
+        1376.0
       ],
       [
         700.0,
-        1368.0
+        1376.0
       ]
     ]
   },
   {
-    "text": "University of Southern California.",
-    "confidence": 0.984020471572876,
+    "text": "University of Southern California,",
+    "confidence": 0.9090918898582458,
     "box": [
       [
-        74.0,
+        76.0,
         1386.0
       ],
       [
-        468.0,
+        471.0,
         1386.0
       ],
       [
-        468.0,
+        471.0,
         1417.0
       ],
       [
-        74.0,
+        76.0,
         1417.0
       ]
     ]
   },
   {
     "text": "Los Angeles, CA",
-    "confidence": 0.999235987663269,
+    "confidence": 0.9940324425697327,
     "box": [
       [
         74.0,
         1417.0
       ],
       [
-        283.0,
+        281.0,
         1417.0
       ],
       [
-        283.0,
+        281.0,
         1449.0
       ],
       [
@@ -727,32 +727,32 @@
   },
   {
     "text": "PROFESSIONAL DEVELOPMENT",
-    "confidence": 0.9942709803581238,
+    "confidence": 0.9527511596679688,
     "box": [
       [
-        688.0,
-        1454.0
+        685.0,
+        1449.0
       ],
       [
-        1331.0,
-        1454.0
+        1333.0,
+        1452.0
       ],
       [
-        1331.0,
-        1488.0
+        1333.0,
+        1493.0
       ],
       [
-        688.0,
-        1488.0
+        685.0,
+        1491.0
       ]
     ]
   },
   {
     "text": "Bachelor's Degree in Film and",
-    "confidence": 0.9786186814308167,
+    "confidence": 0.9063217043876648,
     "box": [
       [
-        74.0,
+        76.0,
         1508.0
       ],
       [
@@ -764,25 +764,25 @@
         1539.0
       ],
       [
-        74.0,
+        76.0,
         1539.0
       ]
     ]
   },
   {
     "text": "Video Production",
-    "confidence": 0.9947915077209473,
+    "confidence": 0.8944045901298523,
     "box": [
       [
         74.0,
         1539.0
       ],
       [
-        288.0,
+        286.0,
         1539.0
       ],
       [
-        288.0,
+        286.0,
         1571.0
       ],
       [
@@ -793,29 +793,29 @@
   },
   {
     "text": "Adobe Certified Expert in Premiere Pro, Adobe",
-    "confidence": 0.9962865114212036,
+    "confidence": 0.9604002833366394,
     "box": [
       [
-        665.0,
-        1552.0
+        660.0,
+        1544.0
       ],
       [
         1254.0,
-        1552.0
+        1544.0
       ],
       [
         1254.0,
         1576.0
       ],
       [
-        665.0,
+        660.0,
         1576.0
       ]
     ]
   },
   {
     "text": "Apple Certified Pro - Final Cut Pro X, Apple Inc.",
-    "confidence": 0.994661808013916,
+    "confidence": 0.9293012022972107,
     "box": [
       [
         663.0,
@@ -836,16 +836,16 @@
     ]
   },
   {
-    "text": "New York University, New York.",
-    "confidence": 0.9919763803482056,
+    "text": "New York University, New York,",
+    "confidence": 0.9788244366645813,
     "box": [
       [
         74.0,
-        1613.0
+        1608.0
       ],
       [
         446.0,
-        1613.0
+        1610.0
       ],
       [
         446.0,
@@ -853,13 +853,35 @@
       ],
       [
         74.0,
+        1642.0
+      ]
+    ]
+  },
+  {
+    "text": "NY",
+    "confidence": 0.9880982637405396,
+    "box": [
+      [
+        74.0,
         1644.0
+      ],
+      [
+        116.0,
+        1644.0
+      ],
+      [
+        116.0,
+        1676.0
+      ],
+      [
+        74.0,
+        1676.0
       ]
     ]
   },
   {
     "text": "Avid Certified User, Avid Technology",
-    "confidence": 0.9997772574424744,
+    "confidence": 0.9502692818641663,
     "box": [
       [
         661.0,
@@ -880,33 +902,11 @@
     ]
   },
   {
-    "text": "NY",
-    "confidence": 0.99968421459198,
-    "box": [
-      [
-        74.0,
-        1647.0
-      ],
-      [
-        116.0,
-        1647.0
-      ],
-      [
-        116.0,
-        1676.0
-      ],
-      [
-        74.0,
-        1676.0
-      ]
-    ]
-  },
-  {
     "text": "Bachelor's Degree in Digital",
-    "confidence": 0.9906176924705505,
+    "confidence": 0.9664994478225708,
     "box": [
       [
-        74.0,
+        76.0,
         1737.0
       ],
       [
@@ -918,47 +918,47 @@
         1769.0
       ],
       [
-        74.0,
+        76.0,
         1769.0
       ]
     ]
   },
   {
     "text": "Media Production",
-    "confidence": 0.9751187562942505,
+    "confidence": 0.8612746000289917,
     "box": [
       [
         74.0,
         1766.0
       ],
       [
-        291.0,
-        1769.0
+        293.0,
+        1766.0
       ],
       [
-        291.0,
-        1796.0
+        293.0,
+        1798.0
       ],
       [
         74.0,
-        1793.0
+        1798.0
       ]
     ]
   },
   {
     "text": "Boston University, Boston, MA",
-    "confidence": 0.9995168447494507,
+    "confidence": 0.9337264895439148,
     "box": [
       [
         74.0,
         1842.0
       ],
       [
-        441.0,
+        439.0,
         1842.0
       ],
       [
-        441.0,
+        439.0,
         1874.0
       ],
       [
@@ -969,32 +969,32 @@
   },
   {
     "text": "KEY SKILLS",
-    "confidence": 0.9965532422065735,
+    "confidence": 0.9611595869064331,
     "box": [
       [
-        52.0,
-        1971.0
+        47.0,
+        1966.0
       ],
       [
-        278.0,
-        1971.0
+        283.0,
+        1966.0
       ],
       [
-        278.0,
-        2005.0
+        283.0,
+        2008.0
       ],
       [
-        52.0,
-        2005.0
+        47.0,
+        2008.0
       ]
     ]
   },
   {
     "text": "Adobe Premiere Pro",
-    "confidence": 0.9906874895095825,
+    "confidence": 0.9821451902389526,
     "box": [
       [
-        111.0,
+        99.0,
         2098.0
       ],
       [
@@ -1006,36 +1006,36 @@
         2130.0
       ],
       [
-        111.0,
+        99.0,
         2130.0
       ]
     ]
   },
   {
-    "text": "Motion graphics and special",
-    "confidence": 0.984947144985199,
+    "text": " Motion graphics and special",
+    "confidence": 0.9672099351882935,
     "box": [
       [
-        104.0,
-        2139.0
+        99.0,
+        2144.0
       ],
       [
         463.0,
-        2142.0
+        2144.0
       ],
       [
         463.0,
         2176.0
       ],
       [
-        103.0,
-        2174.0
+        99.0,
+        2176.0
       ]
     ]
   },
   {
     "text": "effects",
-    "confidence": 0.9992815256118774,
+    "confidence": 0.9938737750053406,
     "box": [
       [
         116.0,

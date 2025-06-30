@@ -1,0 +1,1778 @@
+[
+  {
+    "id": 0,
+    "text": "Anthony Gentile",
+    "confidence": 0.9160165190696716,
+    "box": {
+      "top_left": [
+        131.0,
+        159.0
+      ],
+      "top_right": [
+        1008.0,
+        159.0
+      ],
+      "bottom_right": [
+        1008.0,
+        242.0
+      ],
+      "bottom_left": [
+        131.0,
+        242.0
+      ]
+    },
+    "position": {
+      "x_min": 131.0,
+      "y_min": 159.0,
+      "x_max": 1008.0,
+      "y_max": 242.0,
+      "center": [
+        569.5,
+        200.5
+      ],
+      "width": 877.0,
+      "height": 83.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 1,
+    "text": "Video editor with a Master's Degree in film editing and dual Bachelor's degrees in film and video production and digital media",
+    "confidence": 0.9479728937149048,
+    "box": {
+      "top_left": [
+        123.0,
+        285.0
+      ],
+      "top_right": [
+        1461.0,
+        285.0
+      ],
+      "bottom_right": [
+        1461.0,
+        310.0
+      ],
+      "bottom_left": [
+        123.0,
+        310.0
+      ]
+    },
+    "position": {
+      "x_min": 123.0,
+      "y_min": 285.0,
+      "x_max": 1461.0,
+      "y_max": 310.0,
+      "center": [
+        792.0,
+        297.5
+      ],
+      "width": 1338.0,
+      "height": 25.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 2,
+    "text": "production. Skilled at managing the entire editing process, from selecting footage to creating a coherent story, with experience at",
+    "confidence": 0.9344996213912964,
+    "box": {
+      "top_left": [
+        123.0,
+        315.0
+      ],
+      "top_right": [
+        1498.0,
+        315.0
+      ],
+      "bottom_right": [
+        1498.0,
+        339.0
+      ],
+      "bottom_left": [
+        123.0,
+        339.0
+      ]
+    },
+    "position": {
+      "x_min": 123.0,
+      "y_min": 315.0,
+      "x_max": 1498.0,
+      "y_max": 339.0,
+      "center": [
+        810.5,
+        327.0
+      ],
+      "width": 1375.0,
+      "height": 24.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 3,
+    "text": "industry leaders like Warner Bros. Entertainment and DreamWorks Animation. Proficient in Adobe Premiere Pro, with strong",
+    "confidence": 0.9310693144798279,
+    "box": {
+      "top_left": [
+        121.0,
+        344.0
+      ],
+      "top_right": [
+        1447.0,
+        344.0
+      ],
+      "bottom_right": [
+        1447.0,
+        368.0
+      ],
+      "bottom_left": [
+        121.0,
+        368.0
+      ]
+    },
+    "position": {
+      "x_min": 121.0,
+      "y_min": 344.0,
+      "x_max": 1447.0,
+      "y_max": 368.0,
+      "center": [
+        784.0,
+        356.0
+      ],
+      "width": 1326.0,
+      "height": 24.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 4,
+    "text": "storytelling abilities, knowledge of motion graphics and special effects, and certifications from Adobe, Avid Technology, and Apple",
+    "confidence": 0.938125491142273,
+    "box": {
+      "top_left": [
+        118.0,
+        371.0
+      ],
+      "top_right": [
+        1503.0,
+        371.0
+      ],
+      "bottom_right": [
+        1503.0,
+        403.0
+      ],
+      "bottom_left": [
+        118.0,
+        403.0
+      ]
+    },
+    "position": {
+      "x_min": 118.0,
+      "y_min": 371.0,
+      "x_max": 1503.0,
+      "y_max": 403.0,
+      "center": [
+        810.5,
+        387.0
+      ],
+      "width": 1385.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 5,
+    "text": "Inc.",
+    "confidence": 0.9936780333518982,
+    "box": {
+      "top_left": [
+        121.0,
+        405.0
+      ],
+      "top_right": [
+        160.0,
+        405.0
+      ],
+      "bottom_right": [
+        160.0,
+        424.0
+      ],
+      "bottom_left": [
+        121.0,
+        424.0
+      ]
+    },
+    "position": {
+      "x_min": 121.0,
+      "y_min": 405.0,
+      "x_max": 160.0,
+      "y_max": 424.0,
+      "center": [
+        140.5,
+        414.5
+      ],
+      "width": 39.0,
+      "height": 19.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 6,
+    "text": "PROFESSIONAL EXPERIENCE",
+    "confidence": 0.9809876084327698,
+    "box": {
+      "top_left": [
+        692.0,
+        598.0
+      ],
+      "top_right": [
+        1274.0,
+        598.0
+      ],
+      "bottom_right": [
+        1274.0,
+        632.0
+      ],
+      "bottom_left": [
+        692.0,
+        632.0
+      ]
+    },
+    "position": {
+      "x_min": 692.0,
+      "y_min": 598.0,
+      "x_max": 1274.0,
+      "y_max": 632.0,
+      "center": [
+        983.0,
+        615.0
+      ],
+      "width": 582.0,
+      "height": 34.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 7,
+    "text": "CONTACT",
+    "confidence": 0.9135581851005554,
+    "box": {
+      "top_left": [
+        52.0,
+        610.0
+      ],
+      "top_right": [
+        244.0,
+        610.0
+      ],
+      "bottom_right": [
+        244.0,
+        644.0
+      ],
+      "bottom_left": [
+        52.0,
+        644.0
+      ]
+    },
+    "position": {
+      "x_min": 52.0,
+      "y_min": 610.0,
+      "x_max": 244.0,
+      "y_max": 644.0,
+      "center": [
+        148.0,
+        627.0
+      ],
+      "width": 192.0,
+      "height": 34.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 8,
+    "text": "Senior Video Editor I Warner Bros. Entertainment I Burbank, CA",
+    "confidence": 0.9601304531097412,
+    "box": {
+      "top_left": [
+        621.0,
+        690.0
+      ],
+      "top_right": [
+        1380.0,
+        690.0
+      ],
+      "bottom_right": [
+        1380.0,
+        722.0
+      ],
+      "bottom_left": [
+        621.0,
+        722.0
+      ]
+    },
+    "position": {
+      "x_min": 621.0,
+      "y_min": 690.0,
+      "x_max": 1380.0,
+      "y_max": 722.0,
+      "center": [
+        1000.5,
+        706.0
+      ],
+      "width": 759.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 9,
+    "text": "January 2018 - Present",
+    "confidence": 0.9511054754257202,
+    "box": {
+      "top_left": [
+        619.0,
+        725.0
+      ],
+      "top_right": [
+        907.0,
+        725.0
+      ],
+      "bottom_right": [
+        907.0,
+        756.0
+      ],
+      "bottom_left": [
+        619.0,
+        756.0
+      ]
+    },
+    "position": {
+      "x_min": 619.0,
+      "y_min": 725.0,
+      "x_max": 907.0,
+      "y_max": 756.0,
+      "center": [
+        763.0,
+        740.5
+      ],
+      "width": 288.0,
+      "height": 31.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 10,
+    "text": "(123) 456-7890",
+    "confidence": 0.9733296036720276,
+    "box": {
+      "top_left": [
+        148.0,
+        744.0
+      ],
+      "top_right": [
+        330.0,
+        744.0
+      ],
+      "bottom_right": [
+        330.0,
+        778.0
+      ],
+      "bottom_left": [
+        148.0,
+        778.0
+      ]
+    },
+    "position": {
+      "x_min": 148.0,
+      "y_min": 744.0,
+      "x_max": 330.0,
+      "y_max": 778.0,
+      "center": [
+        239.0,
+        761.0
+      ],
+      "width": 182.0,
+      "height": 34.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 11,
+    "text": ". Lead editor for multiple high-profile projects, consistently delivering final",
+    "confidence": 0.9283484816551208,
+    "box": {
+      "top_left": [
+        663.0,
+        790.0
+      ],
+      "top_right": [
+        1577.0,
+        790.0
+      ],
+      "bottom_right": [
+        1577.0,
+        822.0
+      ],
+      "bottom_left": [
+        663.0,
+        822.0
+      ]
+    },
+    "position": {
+      "x_min": 663.0,
+      "y_min": 790.0,
+      "x_max": 1577.0,
+      "y_max": 822.0,
+      "center": [
+        1120.0,
+        806.0
+      ],
+      "width": 914.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 12,
+    "text": "products ahead of schedule without compromising on quality",
+    "confidence": 0.9449082612991333,
+    "box": {
+      "top_left": [
+        700.0,
+        822.0
+      ],
+      "top_right": [
+        1442.0,
+        822.0
+      ],
+      "bottom_right": [
+        1442.0,
+        854.0
+      ],
+      "bottom_left": [
+        700.0,
+        854.0
+      ]
+    },
+    "position": {
+      "x_min": 700.0,
+      "y_min": 822.0,
+      "x_max": 1442.0,
+      "y_max": 854.0,
+      "center": [
+        1071.0,
+        838.0
+      ],
+      "width": 742.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 13,
+    "text": "email@example.com",
+    "confidence": 0.903052568435669,
+    "box": {
+      "top_left": [
+        148.0,
+        834.0
+      ],
+      "top_right": [
+        392.0,
+        834.0
+      ],
+      "bottom_right": [
+        392.0,
+        866.0
+      ],
+      "bottom_left": [
+        148.0,
+        866.0
+      ]
+    },
+    "position": {
+      "x_min": 148.0,
+      "y_min": 834.0,
+      "x_max": 392.0,
+      "y_max": 866.0,
+      "center": [
+        270.0,
+        850.0
+      ],
+      "width": 244.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 14,
+    "text": ": Implemented a new organizational system for the video archive, improving",
+    "confidence": 0.9298862814903259,
+    "box": {
+      "top_left": [
+        658.0,
+        861.0
+      ],
+      "top_right": [
+        1599.0,
+        866.0
+      ],
+      "bottom_right": [
+        1599.0,
+        900.0
+      ],
+      "bottom_left": [
+        658.0,
+        895.0
+      ]
+    },
+    "position": {
+      "x_min": 658.0,
+      "y_min": 861.0,
+      "x_max": 1599.0,
+      "y_max": 900.0,
+      "center": [
+        1128.5,
+        880.5
+      ],
+      "width": 941.0,
+      "height": 39.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 15,
+    "text": "retrieval efficiency by 30%",
+    "confidence": 0.9873948693275452,
+    "box": {
+      "top_left": [
+        700.0,
+        900.0
+      ],
+      "top_right": [
+        1025.0,
+        900.0
+      ],
+      "bottom_right": [
+        1025.0,
+        932.0
+      ],
+      "bottom_left": [
+        700.0,
+        932.0
+      ]
+    },
+    "position": {
+      "x_min": 700.0,
+      "y_min": 900.0,
+      "x_max": 1025.0,
+      "y_max": 932.0,
+      "center": [
+        862.5,
+        916.0
+      ],
+      "width": 325.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 16,
+    "text": " Linkedin",
+    "confidence": 0.9264258146286011,
+    "box": {
+      "top_left": [
+        138.0,
+        922.0
+      ],
+      "top_right": [
+        251.0,
+        922.0
+      ],
+      "bottom_right": [
+        251.0,
+        956.0
+      ],
+      "bottom_left": [
+        138.0,
+        956.0
+      ]
+    },
+    "position": {
+      "x_min": 138.0,
+      "y_min": 922.0,
+      "x_max": 251.0,
+      "y_max": 956.0,
+      "center": [
+        194.5,
+        939.0
+      ],
+      "width": 113.0,
+      "height": 34.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 17,
+    "text": "· Worked closely with directors and producers, translating their vision into the",
+    "confidence": 0.9270704388618469,
+    "box": {
+      "top_left": [
+        658.0,
+        942.0
+      ],
+      "top_right": [
+        1619.0,
+        944.0
+      ],
+      "bottom_right": [
+        1619.0,
+        978.0
+      ],
+      "bottom_left": [
+        658.0,
+        976.0
+      ]
+    },
+    "position": {
+      "x_min": 658.0,
+      "y_min": 942.0,
+      "x_max": 1619.0,
+      "y_max": 978.0,
+      "center": [
+        1138.5,
+        960.0
+      ],
+      "width": 961.0,
+      "height": 36.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 18,
+    "text": "final product for over 20 films",
+    "confidence": 0.9332011938095093,
+    "box": {
+      "top_left": [
+        700.0,
+        978.0
+      ],
+      "top_right": [
+        1062.0,
+        978.0
+      ],
+      "bottom_right": [
+        1062.0,
+        1010.0
+      ],
+      "bottom_left": [
+        700.0,
+        1010.0
+      ]
+    },
+    "position": {
+      "x_min": 700.0,
+      "y_min": 978.0,
+      "x_max": 1062.0,
+      "y_max": 1010.0,
+      "center": [
+        881.0,
+        994.0
+      ],
+      "width": 362.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 19,
+    "text": "Minneapolis, MN 12345",
+    "confidence": 0.9545161724090576,
+    "box": {
+      "top_left": [
+        148.0,
+        1012.0
+      ],
+      "top_right": [
+        426.0,
+        1012.0
+      ],
+      "bottom_right": [
+        426.0,
+        1044.0
+      ],
+      "bottom_left": [
+        148.0,
+        1044.0
+      ]
+    },
+    "position": {
+      "x_min": 148.0,
+      "y_min": 1012.0,
+      "x_max": 426.0,
+      "y_max": 1044.0,
+      "center": [
+        287.0,
+        1028.0
+      ],
+      "width": 278.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 20,
+    "text": "Video Editor I DreamWorks Animation I Glendale, CA",
+    "confidence": 0.9474092125892639,
+    "box": {
+      "top_left": [
+        619.0,
+        1059.0
+      ],
+      "top_right": [
+        1252.0,
+        1059.0
+      ],
+      "bottom_right": [
+        1252.0,
+        1090.0
+      ],
+      "bottom_left": [
+        619.0,
+        1090.0
+      ]
+    },
+    "position": {
+      "x_min": 619.0,
+      "y_min": 1059.0,
+      "x_max": 1252.0,
+      "y_max": 1090.0,
+      "center": [
+        935.5,
+        1074.5
+      ],
+      "width": 633.0,
+      "height": 31.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 21,
+    "text": "May 2017 - December 2017",
+    "confidence": 0.9513821601867676,
+    "box": {
+      "top_left": [
+        619.0,
+        1095.0
+      ],
+      "top_right": [
+        961.0,
+        1095.0
+      ],
+      "bottom_right": [
+        961.0,
+        1120.0
+      ],
+      "bottom_left": [
+        619.0,
+        1120.0
+      ]
+    },
+    "position": {
+      "x_min": 619.0,
+      "y_min": 1095.0,
+      "x_max": 961.0,
+      "y_max": 1120.0,
+      "center": [
+        790.0,
+        1107.5
+      ],
+      "width": 342.0,
+      "height": 25.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 22,
+    "text": "EDUCATION",
+    "confidence": 0.9483242034912109,
+    "box": {
+      "top_left": [
+        52.0,
+        1151.0
+      ],
+      "top_right": [
+        293.0,
+        1151.0
+      ],
+      "bottom_right": [
+        293.0,
+        1186.0
+      ],
+      "bottom_left": [
+        52.0,
+        1186.0
+      ]
+    },
+    "position": {
+      "x_min": 52.0,
+      "y_min": 1151.0,
+      "x_max": 293.0,
+      "y_max": 1186.0,
+      "center": [
+        172.5,
+        1168.5
+      ],
+      "width": 241.0,
+      "height": 35.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 23,
+    "text": "Managed the entire editing process for three animated feature films, all of",
+    "confidence": 0.9493540525436401,
+    "box": {
+      "top_left": [
+        678.0,
+        1156.0
+      ],
+      "top_right": [
+        1592.0,
+        1156.0
+      ],
+      "bottom_right": [
+        1592.0,
+        1188.0
+      ],
+      "bottom_left": [
+        678.0,
+        1188.0
+      ]
+    },
+    "position": {
+      "x_min": 678.0,
+      "y_min": 1156.0,
+      "x_max": 1592.0,
+      "y_max": 1188.0,
+      "center": [
+        1135.0,
+        1172.0
+      ],
+      "width": 914.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 24,
+    "text": "which received positive reviews for seamless storytelling",
+    "confidence": 0.9627663493156433,
+    "box": {
+      "top_left": [
+        702.0,
+        1188.0
+      ],
+      "top_right": [
+        1387.0,
+        1188.0
+      ],
+      "bottom_right": [
+        1387.0,
+        1220.0
+      ],
+      "bottom_left": [
+        702.0,
+        1220.0
+      ]
+    },
+    "position": {
+      "x_min": 702.0,
+      "y_min": 1188.0,
+      "x_max": 1387.0,
+      "y_max": 1220.0,
+      "center": [
+        1044.5,
+        1204.0
+      ],
+      "width": 685.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 25,
+    "text": " Trained new team members on Adobe Premiere Pro and other video editing",
+    "confidence": 0.9048769474029541,
+    "box": {
+      "top_left": [
+        688.0,
+        1234.0
+      ],
+      "top_right": [
+        1609.0,
+        1234.0
+      ],
+      "bottom_right": [
+        1609.0,
+        1266.0
+      ],
+      "bottom_left": [
+        688.0,
+        1266.0
+      ]
+    },
+    "position": {
+      "x_min": 688.0,
+      "y_min": 1234.0,
+      "x_max": 1609.0,
+      "y_max": 1266.0,
+      "center": [
+        1148.5,
+        1250.0
+      ],
+      "width": 921.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 26,
+    "text": "April 2017 I Master's Degree in",
+    "confidence": 0.9195269346237183,
+    "box": {
+      "top_left": [
+        74.0,
+        1276.0
+      ],
+      "top_right": [
+        451.0,
+        1278.0
+      ],
+      "bottom_right": [
+        451.0,
+        1313.0
+      ],
+      "bottom_left": [
+        74.0,
+        1310.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1276.0,
+      "x_max": 451.0,
+      "y_max": 1313.0,
+      "center": [
+        262.5,
+        1294.25
+      ],
+      "width": 377.0,
+      "height": 37.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 27,
+    "text": "software",
+    "confidence": 0.9492067694664001,
+    "box": {
+      "top_left": [
+        705.0,
+        1269.0
+      ],
+      "top_right": [
+        806.0,
+        1269.0
+      ],
+      "bottom_right": [
+        806.0,
+        1293.0
+      ],
+      "bottom_left": [
+        705.0,
+        1293.0
+      ]
+    },
+    "position": {
+      "x_min": 705.0,
+      "y_min": 1269.0,
+      "x_max": 806.0,
+      "y_max": 1293.0,
+      "center": [
+        755.5,
+        1281.0
+      ],
+      "width": 101.0,
+      "height": 24.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 28,
+    "text": "Film Editing",
+    "confidence": 0.9699480533599854,
+    "box": {
+      "top_left": [
+        73.0,
+        1305.0
+      ],
+      "top_right": [
+        222.0,
+        1313.0
+      ],
+      "bottom_right": [
+        220.0,
+        1347.0
+      ],
+      "bottom_left": [
+        71.0,
+        1339.0
+      ]
+    },
+    "position": {
+      "x_min": 71.0,
+      "y_min": 1305.0,
+      "x_max": 222.0,
+      "y_max": 1347.0,
+      "center": [
+        146.5,
+        1326.0
+      ],
+      "width": 151.0,
+      "height": 42.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 29,
+    "text": "Helped create motion graphics and special effects, contributing to each",
+    "confidence": 0.9334071278572083,
+    "box": {
+      "top_left": [
+        695.0,
+        1308.0
+      ],
+      "top_right": [
+        1572.0,
+        1310.0
+      ],
+      "bottom_right": [
+        1572.0,
+        1342.0
+      ],
+      "bottom_left": [
+        695.0,
+        1339.0
+      ]
+    },
+    "position": {
+      "x_min": 695.0,
+      "y_min": 1308.0,
+      "x_max": 1572.0,
+      "y_max": 1342.0,
+      "center": [
+        1133.5,
+        1324.75
+      ],
+      "width": 877.0,
+      "height": 34.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 30,
+    "text": "film's unique visual style",
+    "confidence": 0.8896303176879883,
+    "box": {
+      "top_left": [
+        700.0,
+        1344.0
+      ],
+      "top_right": [
+        998.0,
+        1344.0
+      ],
+      "bottom_right": [
+        998.0,
+        1376.0
+      ],
+      "bottom_left": [
+        700.0,
+        1376.0
+      ]
+    },
+    "position": {
+      "x_min": 700.0,
+      "y_min": 1344.0,
+      "x_max": 998.0,
+      "y_max": 1376.0,
+      "center": [
+        849.0,
+        1360.0
+      ],
+      "width": 298.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 31,
+    "text": "University of Southern California,",
+    "confidence": 0.9090918898582458,
+    "box": {
+      "top_left": [
+        76.0,
+        1386.0
+      ],
+      "top_right": [
+        471.0,
+        1386.0
+      ],
+      "bottom_right": [
+        471.0,
+        1417.0
+      ],
+      "bottom_left": [
+        76.0,
+        1417.0
+      ]
+    },
+    "position": {
+      "x_min": 76.0,
+      "y_min": 1386.0,
+      "x_max": 471.0,
+      "y_max": 1417.0,
+      "center": [
+        273.5,
+        1401.5
+      ],
+      "width": 395.0,
+      "height": 31.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 32,
+    "text": "Los Angeles, CA",
+    "confidence": 0.9940324425697327,
+    "box": {
+      "top_left": [
+        74.0,
+        1417.0
+      ],
+      "top_right": [
+        281.0,
+        1417.0
+      ],
+      "bottom_right": [
+        281.0,
+        1449.0
+      ],
+      "bottom_left": [
+        74.0,
+        1449.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1417.0,
+      "x_max": 281.0,
+      "y_max": 1449.0,
+      "center": [
+        177.5,
+        1433.0
+      ],
+      "width": 207.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 33,
+    "text": "PROFESSIONAL DEVELOPMENT",
+    "confidence": 0.9527511596679688,
+    "box": {
+      "top_left": [
+        685.0,
+        1449.0
+      ],
+      "top_right": [
+        1333.0,
+        1452.0
+      ],
+      "bottom_right": [
+        1333.0,
+        1493.0
+      ],
+      "bottom_left": [
+        685.0,
+        1491.0
+      ]
+    },
+    "position": {
+      "x_min": 685.0,
+      "y_min": 1449.0,
+      "x_max": 1333.0,
+      "y_max": 1493.0,
+      "center": [
+        1009.0,
+        1471.25
+      ],
+      "width": 648.0,
+      "height": 44.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 34,
+    "text": "Bachelor's Degree in Film and",
+    "confidence": 0.9063217043876648,
+    "box": {
+      "top_left": [
+        76.0,
+        1508.0
+      ],
+      "top_right": [
+        446.0,
+        1508.0
+      ],
+      "bottom_right": [
+        446.0,
+        1539.0
+      ],
+      "bottom_left": [
+        76.0,
+        1539.0
+      ]
+    },
+    "position": {
+      "x_min": 76.0,
+      "y_min": 1508.0,
+      "x_max": 446.0,
+      "y_max": 1539.0,
+      "center": [
+        261.0,
+        1523.5
+      ],
+      "width": 370.0,
+      "height": 31.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 35,
+    "text": "Video Production",
+    "confidence": 0.8944045901298523,
+    "box": {
+      "top_left": [
+        74.0,
+        1539.0
+      ],
+      "top_right": [
+        286.0,
+        1539.0
+      ],
+      "bottom_right": [
+        286.0,
+        1571.0
+      ],
+      "bottom_left": [
+        74.0,
+        1571.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1539.0,
+      "x_max": 286.0,
+      "y_max": 1571.0,
+      "center": [
+        180.0,
+        1555.0
+      ],
+      "width": 212.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 36,
+    "text": "Adobe Certified Expert in Premiere Pro, Adobe",
+    "confidence": 0.9604002833366394,
+    "box": {
+      "top_left": [
+        660.0,
+        1544.0
+      ],
+      "top_right": [
+        1254.0,
+        1544.0
+      ],
+      "bottom_right": [
+        1254.0,
+        1576.0
+      ],
+      "bottom_left": [
+        660.0,
+        1576.0
+      ]
+    },
+    "position": {
+      "x_min": 660.0,
+      "y_min": 1544.0,
+      "x_max": 1254.0,
+      "y_max": 1576.0,
+      "center": [
+        957.0,
+        1560.0
+      ],
+      "width": 594.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 37,
+    "text": "Apple Certified Pro - Final Cut Pro X, Apple Inc.",
+    "confidence": 0.9293012022972107,
+    "box": {
+      "top_left": [
+        663.0,
+        1593.0
+      ],
+      "top_right": [
+        1264.0,
+        1593.0
+      ],
+      "bottom_right": [
+        1264.0,
+        1625.0
+      ],
+      "bottom_left": [
+        663.0,
+        1625.0
+      ]
+    },
+    "position": {
+      "x_min": 663.0,
+      "y_min": 1593.0,
+      "x_max": 1264.0,
+      "y_max": 1625.0,
+      "center": [
+        963.5,
+        1609.0
+      ],
+      "width": 601.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 38,
+    "text": "New York University, New York,",
+    "confidence": 0.9788244366645813,
+    "box": {
+      "top_left": [
+        74.0,
+        1608.0
+      ],
+      "top_right": [
+        446.0,
+        1610.0
+      ],
+      "bottom_right": [
+        446.0,
+        1644.0
+      ],
+      "bottom_left": [
+        74.0,
+        1642.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1608.0,
+      "x_max": 446.0,
+      "y_max": 1644.0,
+      "center": [
+        260.0,
+        1626.0
+      ],
+      "width": 372.0,
+      "height": 36.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 39,
+    "text": "NY",
+    "confidence": 0.9880982637405396,
+    "box": {
+      "top_left": [
+        74.0,
+        1644.0
+      ],
+      "top_right": [
+        116.0,
+        1644.0
+      ],
+      "bottom_right": [
+        116.0,
+        1676.0
+      ],
+      "bottom_left": [
+        74.0,
+        1676.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1644.0,
+      "x_max": 116.0,
+      "y_max": 1676.0,
+      "center": [
+        95.0,
+        1660.0
+      ],
+      "width": 42.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 40,
+    "text": "Avid Certified User, Avid Technology",
+    "confidence": 0.9502692818641663,
+    "box": {
+      "top_left": [
+        661.0,
+        1637.0
+      ],
+      "top_right": [
+        1119.0,
+        1639.0
+      ],
+      "bottom_right": [
+        1119.0,
+        1674.0
+      ],
+      "bottom_left": [
+        660.0,
+        1671.0
+      ]
+    },
+    "position": {
+      "x_min": 660.0,
+      "y_min": 1637.0,
+      "x_max": 1119.0,
+      "y_max": 1674.0,
+      "center": [
+        889.75,
+        1655.25
+      ],
+      "width": 459.0,
+      "height": 37.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 41,
+    "text": "Bachelor's Degree in Digital",
+    "confidence": 0.9664994478225708,
+    "box": {
+      "top_left": [
+        76.0,
+        1737.0
+      ],
+      "top_right": [
+        416.0,
+        1737.0
+      ],
+      "bottom_right": [
+        416.0,
+        1769.0
+      ],
+      "bottom_left": [
+        76.0,
+        1769.0
+      ]
+    },
+    "position": {
+      "x_min": 76.0,
+      "y_min": 1737.0,
+      "x_max": 416.0,
+      "y_max": 1769.0,
+      "center": [
+        246.0,
+        1753.0
+      ],
+      "width": 340.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 42,
+    "text": "Media Production",
+    "confidence": 0.8612746000289917,
+    "box": {
+      "top_left": [
+        74.0,
+        1766.0
+      ],
+      "top_right": [
+        293.0,
+        1766.0
+      ],
+      "bottom_right": [
+        293.0,
+        1798.0
+      ],
+      "bottom_left": [
+        74.0,
+        1798.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1766.0,
+      "x_max": 293.0,
+      "y_max": 1798.0,
+      "center": [
+        183.5,
+        1782.0
+      ],
+      "width": 219.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 43,
+    "text": "Boston University, Boston, MA",
+    "confidence": 0.9337264895439148,
+    "box": {
+      "top_left": [
+        74.0,
+        1842.0
+      ],
+      "top_right": [
+        439.0,
+        1842.0
+      ],
+      "bottom_right": [
+        439.0,
+        1874.0
+      ],
+      "bottom_left": [
+        74.0,
+        1874.0
+      ]
+    },
+    "position": {
+      "x_min": 74.0,
+      "y_min": 1842.0,
+      "x_max": 439.0,
+      "y_max": 1874.0,
+      "center": [
+        256.5,
+        1858.0
+      ],
+      "width": 365.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 44,
+    "text": "KEY SKILLS",
+    "confidence": 0.9611595869064331,
+    "box": {
+      "top_left": [
+        47.0,
+        1966.0
+      ],
+      "top_right": [
+        283.0,
+        1966.0
+      ],
+      "bottom_right": [
+        283.0,
+        2008.0
+      ],
+      "bottom_left": [
+        47.0,
+        2008.0
+      ]
+    },
+    "position": {
+      "x_min": 47.0,
+      "y_min": 1966.0,
+      "x_max": 283.0,
+      "y_max": 2008.0,
+      "center": [
+        165.0,
+        1987.0
+      ],
+      "width": 236.0,
+      "height": 42.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 45,
+    "text": "Adobe Premiere Pro",
+    "confidence": 0.9821451902389526,
+    "box": {
+      "top_left": [
+        99.0,
+        2098.0
+      ],
+      "top_right": [
+        365.0,
+        2098.0
+      ],
+      "bottom_right": [
+        365.0,
+        2130.0
+      ],
+      "bottom_left": [
+        99.0,
+        2130.0
+      ]
+    },
+    "position": {
+      "x_min": 99.0,
+      "y_min": 2098.0,
+      "x_max": 365.0,
+      "y_max": 2130.0,
+      "center": [
+        232.0,
+        2114.0
+      ],
+      "width": 266.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 46,
+    "text": " Motion graphics and special",
+    "confidence": 0.9672099351882935,
+    "box": {
+      "top_left": [
+        99.0,
+        2144.0
+      ],
+      "top_right": [
+        463.0,
+        2144.0
+      ],
+      "bottom_right": [
+        463.0,
+        2176.0
+      ],
+      "bottom_left": [
+        99.0,
+        2176.0
+      ]
+    },
+    "position": {
+      "x_min": 99.0,
+      "y_min": 2144.0,
+      "x_max": 463.0,
+      "y_max": 2176.0,
+      "center": [
+        281.0,
+        2160.0
+      ],
+      "width": 364.0,
+      "height": 32.0
+    },
+    "line": null,
+    "section_guess": null
+  },
+  {
+    "id": 47,
+    "text": "effects",
+    "confidence": 0.9938737750053406,
+    "box": {
+      "top_left": [
+        116.0,
+        2179.0
+      ],
+      "top_right": [
+        202.0,
+        2179.0
+      ],
+      "bottom_right": [
+        202.0,
+        2205.0
+      ],
+      "bottom_left": [
+        116.0,
+        2205.0
+      ]
+    },
+    "position": {
+      "x_min": 116.0,
+      "y_min": 2179.0,
+      "x_max": 202.0,
+      "y_max": 2205.0,
+      "center": [
+        159.0,
+        2192.0
+      ],
+      "width": 86.0,
+      "height": 26.0
+    },
+    "line": null,
+    "section_guess": null
+  }
+]
